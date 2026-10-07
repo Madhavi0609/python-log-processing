@@ -1,0 +1,10 @@
+2026-10-07 10:00:00,payment,ERROR,Payment failed
+2026-10-07 10:01:00,auth,INFO,Login success
+2026-10-07 10:02:00,payment,ERROR,Card declined
+2026-10-07 10:03:00,orders,ERROR,Order creation failed
+2026-10-07 10:04:00,auth,ERROR,Token expired
+2026-10-07 10:05:00,payment,ERROR,Gateway timeout
+bad log line
+2026-10-07 10:06:00,inventory,ERROR,Stock lookup failed
+2026-10-07 10:07:00,orders,ERROR,Database timeout
+2026-10-07 10:08:00,shipping,ERROR,Carrier unavailable
